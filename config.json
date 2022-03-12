@@ -1,0 +1,6 @@
+{
+    "CAREERS_URL":"https://careers.immersivelabs.com/jobs/",
+    "WEBHOOK_URL":"",
+    "LOGO_URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI51D6Vlf0del4IglQbTWdOtyZAHsUliIC3nkMVp1o-D5DaXeQPej-6CdM6dWV9_yD5_I&usqp=CAU",
+    "DB_FILE": "./oldData.json"
+}
